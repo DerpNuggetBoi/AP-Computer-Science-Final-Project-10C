@@ -1,0 +1,15 @@
+# Settimg up the basic setting/map of the actual game
+borderCharacter = "!"
+waterCharacter = "~"
+grassCharacter = "-"
+playerIcon = ""
+
+
+# Main beginning code
+Menu = input(str("Welcome To Frogger")
+if input == '1'
+  print("Ok")
+if input == '2'
+  print("Splendid Choice")
+if input == '3'
+  print("All code by me except for that one line")
